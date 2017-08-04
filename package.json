@@ -1,5 +1,5 @@
 {
-  "name": "waypoints",
+  "name": "waypoints-mrd",
   "version": "4.0.1",
   "author": "Caleb Troughton <caleb@imakewebthings.com> (http://imakewebthings.com)",
   "description": "Easily execute a function when you scroll to an element",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/imakewebthings/waypoints.git"
+    "url": "https://github.com/xinxinran0221010/waypoints-mrd.git"
   },
   "keywords": [
     "scroll"
